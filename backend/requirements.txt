@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+networkx
+python-multipart
+reportlab
+openpyxl
+httpx
